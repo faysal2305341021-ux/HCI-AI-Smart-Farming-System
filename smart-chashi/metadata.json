@@ -1,0 +1,14 @@
+{
+  "name": "Smart Chashi",
+  "description": "An AI-powered Smart Farming platform for Bangladeshi farmers featuring crop disease detection, voice assistant, and marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Crop Diagnosis",
+    "Bangla Voice Assistant",
+    "Smart Agricultural Marketplace"
+  ]
+}
